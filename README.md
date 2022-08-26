@@ -1,2 +1,0 @@
-# jogoteca
-Iniciando projeto jogoteca
